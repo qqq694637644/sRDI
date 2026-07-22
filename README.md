@@ -15,6 +15,9 @@ This project is comprised of the following elements:
 - **FunctionTest:** Imports sRDI C function for debug testing
 - **TestDLL:** Example DLL that includes two exported functions for call on Load and after
 
+## Additional documentation
+- [`docs/x86-loader.md`](docs/x86-loader.md): detailed explanation of the x86 bootstrap and reflective loading path.
+
 **The DLL does not need to be compiled with RDI, however the technique  is cross compatiable.**
 
 ## Use Cases / Examples
